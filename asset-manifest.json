@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/etta-portfolio/static/css/main.54fe9944.css",
+    "main.js": "/etta-portfolio/static/js/main.dc0548e4.js",
+    "static/media/CryptoWorld.gif": "/etta-portfolio/static/media/CryptoWorld.0897962aad60e6958172.gif",
+    "static/media/Fit-Mate.gif": "/etta-portfolio/static/media/Fit-Mate.cb071728fcb540cc1ae3.gif",
+    "static/media/WeatherDashboard.gif": "/etta-portfolio/static/media/WeatherDashboard.afdcca1e857e1c5df690.gif",
+    "static/media/Code-Quiz.gif": "/etta-portfolio/static/media/Code-Quiz.181774b839fbe8f19d5f.gif",
+    "static/media/propic.JPG": "/etta-portfolio/static/media/propic.66287cb536d2b09b6d2d.JPG",
+    "static/media/EH.png": "/etta-portfolio/static/media/EH.e432f7919ed653aca42b.png",
+    "index.html": "/etta-portfolio/index.html",
+    "main.54fe9944.css.map": "/etta-portfolio/static/css/main.54fe9944.css.map",
+    "main.dc0548e4.js.map": "/etta-portfolio/static/js/main.dc0548e4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54fe9944.css",
+    "static/js/main.dc0548e4.js"
+  ]
+}
