@@ -1,0 +1,40 @@
+.testimonials {
+    width: 100%;
+    display: grid;
+    gap: 2rem;
+    padding-block: 2rem;
+}
+
+.test-carts {
+    padding:2.5rem;
+    line-height: 1.5;
+    cursor: pointer;
+}
+
+.image {
+    max-height: 420px;
+    max-width: 640px;
+    border: 10px #a07154;
+    border-style: double;
+}
+
+.test-carts:hover {
+    background-color: var(--clr-white);
+    transition: 250ms;
+}
+
+.test-carts h3 {
+    text-transform: uppercase;
+    margin-block: 1rem;
+}
+.test-carts p {
+    text-transform: uppercase;
+    font-size: clamp(.3rem,.3vw + .5rem,2rem);
+}
+
+@media (min-width:600px) {
+    .testimonials {
+    place-content: center;
+    grid-template-columns: repeat(auto-fit,minmax(35rem,1fr));
+}
+}

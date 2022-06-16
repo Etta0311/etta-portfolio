@@ -1,0 +1,13 @@
+.link {
+  color: #FBEEC1;
+  font-weight: bolder;
+  transition: all 1s;
+  display: flex;
+  align-items: center;
+  text-decoration:none;
+}
+
+.link:hover {
+  color: #35251c;
+  z-index: 1;
+}

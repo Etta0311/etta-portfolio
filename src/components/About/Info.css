@@ -1,0 +1,29 @@
+.info-section {
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+.img {
+    width: 100%;
+}
+
+.info-about {
+    text-transform: uppercase;
+    line-height: 2;
+    text-align: center;
+    padding-top: 30vh;
+}
+
+.info-about span {
+    display: block;
+    font-size: clamp(2rem,8vw + 1rem,12rem);
+}
+@media (max-width:1200px) {
+    .info-section {
+        flex-direction: column;
+        padding-block: 2rem;
+        padding-inline: 1rem;
+    }
+}

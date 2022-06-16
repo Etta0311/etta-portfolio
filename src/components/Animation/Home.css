@@ -1,0 +1,23 @@
+.anime {
+  font-size: 35px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 75vh;
+}
+
+@media (max-width: 780px) {
+    .anime {
+      min-height: 55vh;
+      font-size: 25px;
+    }
+  }
+  
+  
+  @media (max-width: 550px) {
+    .anime {
+      min-height: 45vh;
+      font-size: 15px;
+    }
+  }

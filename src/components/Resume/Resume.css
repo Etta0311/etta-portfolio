@@ -1,0 +1,30 @@
+.resume-content {
+  text-transform: uppercase;
+  padding: 25px;
+  line-height: 3;
+  backdrop-filter: blur(1rem);
+}
+
+.resume-content h1 {
+  user-select: none;
+}
+
+.eff p:hover {
+  border-bottom: 3px solid #e9ded6;
+  transform: scale(1.05);
+  transition: 550ms;
+}
+
+.button {
+  width: 180px;
+  height: 50px;
+  padding-top: 12px;
+  background: #deccc1;
+  color: #704f3a;
+  cursor: pointer;
+  border: solid rgba(255, 255, 255, 0.3) 1px;
+}
+
+.button:hover {
+    background: #704f3a;
+}

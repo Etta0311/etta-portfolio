@@ -1,0 +1,15 @@
+:root {
+    --header-colour: #8D8741;
+    --background-colour: #a07154;
+    --text-colour: #FBEEC1;
+    --secondary-text-colour: #3500D3;
+  }
+
+  body {
+    font-size: large;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-color: var(--background-colour);
+    color: var(--text-colour);
+  }
+  
