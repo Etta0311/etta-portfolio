@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/etta-portfolio/static/css/main.30e8fcff.css",
-    "main.js": "/etta-portfolio/static/js/main.4164aff4.js",
+    "main.css": "/etta-portfolio/static/css/main.61e3d5fd.css",
+    "main.js": "/etta-portfolio/static/js/main.90659ba6.js",
     "static/media/CryptoWorld.gif": "/etta-portfolio/static/media/CryptoWorld.0897962aad60e6958172.gif",
     "static/media/Fit-Mate.gif": "/etta-portfolio/static/media/Fit-Mate.cb071728fcb540cc1ae3.gif",
     "static/media/WeatherDashboard.gif": "/etta-portfolio/static/media/WeatherDashboard.afdcca1e857e1c5df690.gif",
@@ -9,11 +9,11 @@
     "static/media/propic.JPG": "/etta-portfolio/static/media/propic.66287cb536d2b09b6d2d.JPG",
     "static/media/EH.png": "/etta-portfolio/static/media/EH.e432f7919ed653aca42b.png",
     "index.html": "/etta-portfolio/index.html",
-    "main.30e8fcff.css.map": "/etta-portfolio/static/css/main.30e8fcff.css.map",
-    "main.4164aff4.js.map": "/etta-portfolio/static/js/main.4164aff4.js.map"
+    "main.61e3d5fd.css.map": "/etta-portfolio/static/css/main.61e3d5fd.css.map",
+    "main.90659ba6.js.map": "/etta-portfolio/static/js/main.90659ba6.js.map"
   },
   "entrypoints": [
-    "static/css/main.30e8fcff.css",
-    "static/js/main.4164aff4.js"
+    "static/css/main.61e3d5fd.css",
+    "static/js/main.90659ba6.js"
   ]
 }
