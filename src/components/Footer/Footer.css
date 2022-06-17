@@ -1,0 +1,14 @@
+.footerContainer {
+  margin-top: 20px;
+}
+
+.icons {
+  color: var(--text-color);
+  font-size: larger;
+  margin: 5px;
+}
+
+.icons:hover {
+  color: #35251c;
+  z-index: 1;
+}

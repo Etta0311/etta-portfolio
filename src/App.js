@@ -5,7 +5,7 @@ import Info from './components/About/Info';
 import Projects from "./components/Projects/Projects";
 import Contact from "./components/Contact/Contact";
 import Resume from "./components/Resume/Resume";
-// import Footer from "./components/Footer/Footer";
+import Footer from "./components/Footer/Footer";
 // import "./App.css";
 
 function App() {
@@ -20,7 +20,7 @@ function App() {
           <Route path="/resume" element={<Resume />}/ >
           <Route path="/contact" element={<Contact />} / >
         </Routes>
-        {/* <Footer /> */}
+        <Footer />
       </Router>
     </div>
   );

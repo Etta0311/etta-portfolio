@@ -59,6 +59,22 @@ const Contact = () => {
 
   return (
     <div className="d-flex flex-column justify-content-center contact">
+      {/* <div
+        className="badge-base LI-profile-badge pb-2 m-auto"
+        data-locale="en_US"
+        data-size="large"
+        data-theme="light"
+        data-type="HORIZONTAL"
+        data-vanity="etta-h-758178220"
+        data-version="v1"
+      >
+        <a
+          class="badge-base__link LI-simple-link"
+          href="https://au.linkedin.com/in/etta-h-758178220?trk=profile-badge"
+        >
+        </a>
+      </div> */}
+
       <h1>Contact</h1>
       <Form className="formContainer" onSubmit={handleSubmit}>
         <Form.Group className="mb-3">

@@ -32,6 +32,11 @@
     font-size: clamp(.3rem,.3vw + .5rem,2rem);
 }
 
+.test-carts a {
+    /* text-decoration: none; */
+    color: var(--text-color);
+}
+
 @media (min-width:600px) {
     .testimonials {
     place-content: center;
