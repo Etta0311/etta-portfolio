@@ -19,7 +19,7 @@
 
 This website is created to showcase my portfolio, which will host all my major projects and will allow future employers and clients to become more familiar with my work and skills. I built this website to set myself a part from other candidates for any future jobs I apply for. This website will solve the problem of having to send out my major projects as single URLs/ Repos as it conveniently contains all of them in the one space. The main aim is to demonstrate my ability to create a front-end React website.
 
-Link to the [site](https://etta0311.github.io/etta-portfolio/)
+<!-- Link to the [site](https://etta0311.github.io/etta-portfolio/) -->
 
 <a name="technologies"></a>
 
