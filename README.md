@@ -9,10 +9,6 @@
 - [License](#license)
 - [Questions](#questions)
 
-### Demo
-
-![main-demo](src/assets/demo.gif)
-
 <a name="description"></a>
 
 ## 📝 Description
