@@ -11,7 +11,7 @@ const icons = [
   {
     // LinkedIm
     name: "fab fa-linkedin",
-    link: "https://www.linkedin.com/in/etta-h-758178220/",
+    link: "https://www.linkedin.com/in/etta-ho/",
   },
   {
     name: "fab fa-instagram",

@@ -6,7 +6,7 @@ const Resume = () => {
     <div className="container py-5">
       <div class="row justify-content-center pb-3">
         <a
-          href="https://drive.google.com/file/d/12vtPkVDBUdFNEmsLi4_db5OlXsepIR-I/view?usp=sharing"
+          href="https://drive.google.com/file/d/151-tMGhsvm1DuERYn61HTaI3wnvO9jyr/view?usp=sharing"
           download
           className="btn button"
           role="button"
@@ -53,10 +53,12 @@ const Resume = () => {
               <p>Server-side Developments</p>
               <p>MySQL & MongoDB Databases</p>
               <p>Bootstrap & Tailwind CSS</p>
+              <p>Data Structure & Algorithm</p>
               <p>API Interaction</p>
               <p>PWA techniques</p>
               <p>Responsive UX & UI design</p>
               <p>GitHub and GitLab applications</p>
+              
             </div>
           </div>
           
