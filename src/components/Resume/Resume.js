@@ -6,7 +6,7 @@ const Resume = () => {
     <div className="container py-5">
       <div class="row justify-content-center pb-3">
         <a
-          href="https://drive.google.com/file/d/151-tMGhsvm1DuERYn61HTaI3wnvO9jyr/view?usp=sharing"
+          href="https://drive.google.com/file/d/1QuDl4-qQMy6fn3FwHR0Gxx4GVDk6IMbl/view?usp=sharing"
           download
           className="btn button"
           role="button"
@@ -42,6 +42,7 @@ const Resume = () => {
               <p>HTML</p>
               <p>CSS</p>
               <p>Javascript</p>
+              <p>Scala / Slick</p>
               <p>Express.js</p>
               <p>Node.js</p>
               <p>Sequelize</p>

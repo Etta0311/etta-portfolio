@@ -18,7 +18,7 @@ const Info = () => {
             About <span>ETTA</span>
           </h2>
           <p className="info-about-status">
-            Etta is a Full-Stack Web Developer who came from Hong Kong. She
+            Etta is a Software Engineer who came from Hong Kong. She
             graduated from her aviation degree at UNSW in 2021 and finished Full
             stack Web-developing course from USYD in 2022. Enthusiatics in
             Coding, Bug-fixing & working out projects in teams.
