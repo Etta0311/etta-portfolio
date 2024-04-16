@@ -35,6 +35,7 @@ const Contact = () => {
     if (
       !email ||
       email === " " ||
+      // eslint-disable-next-line 
       RegExp(`/^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/`).test(email)
     )
       newErrors.email = "Invalid Email";
