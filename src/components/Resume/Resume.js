@@ -6,7 +6,7 @@ const Resume = () => {
     <div className="container py-5">
       <div class="row justify-content-center pb-3">
         <a
-          href="https://drive.google.com/file/d/1XFwWLksQYw1eAAf84MANI8g_GPoPWqdO/view?usp=drive_link"
+          href="https://drive.google.com/file/d/1XFwWLksQYw1eAAf84MANI8g_GPoPWqdO/view?usp=sharing"
           download
           className="btn button"
           role="button"
